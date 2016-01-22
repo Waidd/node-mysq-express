@@ -21,7 +21,7 @@
   "dependencies": {
   },
   "peerDependencies": {
-  	"mysql": "~2.9.0"
+  	"mysql": "*"
   },
   "devDependencies": {
   	"mysql": "~2.9.0",
